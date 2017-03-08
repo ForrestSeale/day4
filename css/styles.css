@@ -2,7 +2,7 @@
   background-color: #000;
 }
 
-/*.short {
+.short {
   height: 30px;
 }
 
@@ -19,45 +19,23 @@
 }
 
 .gutter {
-  margin-left: 4px;
-  margin-right: 4px;
-}*/
-
-
-#top-left {
-  height: 80px;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
-.top-3 {
-  height: 30px;
-  margin: 30px 0 0 30px;
+.gutter-right {
+  margin-right: 24px
+}
+
+.gutter-left {
+  margin-left: 24px;
+}
+
+.gutter-top {
+  margin-top: 24px;
 }
 
 .container {
   margin-top: 30px;
   margin-bottom: 30px;
-}
-
-#big-block {
-  height: 500px;
-  margin-top: 20px;
-}
-
-#stupid-block {
-  height: 20px;
-  width: 175px;
-  margin-top: 40px;
-}
-
-.medium-blocks {
-  height: 300px;
-}
-
-.small-blocks {
-  height: 300px;
-  margin-left: 45px;
-}
-
-.top-margin {
-  margin-top: 20px;
 }
