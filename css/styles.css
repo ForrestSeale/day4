@@ -1,0 +1,41 @@
+.black {
+  background-color: #000;
+}
+
+.short {
+  height: 30px;
+}
+
+.medium {
+  height: 80px;
+}
+
+.large {
+  height: 200px;
+}
+
+.ex-large {
+  height: 500px;
+}
+
+.gutter {
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.gutter-right {
+  margin-right: 24px
+}
+
+.gutter-left {
+  margin-left: 24px;
+}
+
+.gutter-top {
+  margin-top: 24px;
+}
+
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
